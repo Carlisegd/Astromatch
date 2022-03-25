@@ -11,6 +11,8 @@ O que funciona:
 Link Surge:
 https://womanly-vase.surge.sh/
 
+Autores Desenvolvedores do projeto: Carlise Debona
+
 Imagens:
 
 Tela Inicial 
